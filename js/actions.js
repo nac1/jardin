@@ -2,7 +2,7 @@
 
 var fn = {
     ready: function(){
-        alert("1");
+        alert("=)");
         document.addEventListener("deviceready", fn.init, false);
         
     },
